@@ -11,11 +11,7 @@
 
 ### Connect with me:
 
-                                <a href="https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg"><i class="fa fa-youtube"></i></a>
-                                <a href="https://twitter.com/4Karande"><i class="fa fa-twitter"></i></a>
-                               <a href="https://www.linkedin.com/in/shankar-karande-193406192/"><i class="fa fa-linkedin"></i></a>
-                               <a href="https://github.com/shankarkarande"><i class="fa fa-github"></i></a>
-                               <a href="https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html"><i class="fa fa-newspaper-o"></i></a>
+<i class="fa fa-linkedin" aria-hidden="true"></i>
                            
 <!-- 
 <img align="left" alt=" " width="22px" src="https://skarande.herokuapp.com"/>
