@@ -11,7 +11,9 @@
 
 ### Connect with me:
 
-<img align="left" alt=" width="22px" src="https://skarande.herokuapp.com"/>
+<img src="https://www.intactcentreclimateadaptation.ca/wp-content/uploads/2015/11/Twitter-icon-horizontal.jpg" onclick="https://mobile.twitter.com/4Karande">
+
+<img align="left" alt=" " width="22px" src="https://skarande.herokuapp.com"/>
 <img align="left" alt="" width="22px" src="https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg"/>
 <img align="left" alt="" width="22px" src="https://mobile.twitter.com/4Karande"/>
 <img align="left" alt="" width="22px" src="https://www.linkedin.com/in/shankar-karande-193406192/" />
