@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://skarande.herokuapp.com"/>
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg"/>
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://mobile.twitter.com/4Karande"/>
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/shankar-karande-193406192/" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html" />
+<img align="left" alt="" width="22px" src="https://skarande.herokuapp.com"/>
+<img align="left" alt="YouTube" width="22px" src="https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg"/>
+<img align="left" alt="Twitter" width="22px" src="https://mobile.twitter.com/4Karande"/>
+<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/shankar-karande-193406192/" />
+<img align="left" alt="Blog" width="22px" src="https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html" />
 
 <br />
 
