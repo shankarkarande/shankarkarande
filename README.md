@@ -11,11 +11,31 @@
 
 ### Connect with me:
 
+ <div class="social-network">
+                        <ul class="soial-icons">
+                            <li>
+                                <a href="https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg"><i class="fa fa-youtube"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/4Karande"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://www.linkedin.com/in/shankar-karande-193406192/"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/shankarkarande"><i class="fa fa-github"></i></a>
+                            </li>
+                            <li>
+                                <a href="https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html"><i class="fa fa-newspaper-o"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+<!-- 
 <img align="left" alt=" " width="22px" src="https://skarande.herokuapp.com"/>
 <img align="left" alt="" width="22px" src="https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg"/>
 <img align="left" alt="" width="22px" src="https://mobile.twitter.com/4Karande"/>
 <img align="left" alt="" width="22px" src="https://www.linkedin.com/in/shankar-karande-193406192/" />
-<img align="left" alt="" width="22px" src="https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html" />
+<img align="left" alt="" width="22px" src="https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html" /> -->
 
 <br />
 
