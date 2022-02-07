@@ -8,11 +8,11 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travelling , play football and reading books.
 
--->
 
 ### Connect with me:
 
-<img align="left" alt="" width="22px" src="https://skarande.herokuapp.com"/>
+<img align="left" alt="![image](https://user-images.githubusercontent.com/87746478/152784742-bc86c20b-bf57-435f-970a-ca6b0e12da2d.png)
+" width="22px" src="https://skarande.herokuapp.com"/>
 <img align="left" alt="" width="22px" src="https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg"/>
 <img align="left" alt="" width="22px" src="https://mobile.twitter.com/4Karande"/>
 <img align="left" alt="" width="22px" src="https://www.linkedin.com/in/shankar-karande-193406192/" />
@@ -50,6 +50,8 @@
 ### 📕 Latest Blog Posts 
 
 [Learn Machine Learning Using Python In Data Science - (Part -1)](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
+<br />
+
 ➡️ [more blog posts...](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
 
 
