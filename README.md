@@ -12,9 +12,9 @@
 ### Connect with me:
 
   Personal Website : https://skarande.herokuapp.com/ <br />
-  Youtube Channel : https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg
-  Twitter Account : https://mobile.twitter.com/4Karande
-  LinkedIn Account : https://www.linkedin.com/in/shankar-karande-193406192/
+  Youtube Channel : https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg<br />
+  Twitter Account : https://mobile.twitter.com/4Karande<br />
+  LinkedIn Account : https://www.linkedin.com/in/shankar-karande-193406192/<br />
   Blog Content : https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html
                            
 <!-- 
