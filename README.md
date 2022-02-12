@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Blog Creator!!
 
-- 🔭 I’m pursing B.Tech in Artificial intelligence and Data science ...
+- 🔭 Pursing B.Tech in Artificial intelligence and Data science ...
 - 🌱 I’m currently learning a lot of things ...
 - 👯 I’m looking to collaborate with other content creators. Also i have looking an Internship ...
 - 🥅 2022 Goals: Contribute more to Open Source projects ...
@@ -35,7 +35,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSS3" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"/>
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png"/>
+<img align="left" alt="CSS3" width="26px" src="https://www.aarktechub.com/imgs/web/Flask.png"/>
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
