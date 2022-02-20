@@ -55,10 +55,10 @@
 
 ### 📕 Latest Blog Posts 
 
-[Learn Machine Learning Using Python In Data Science - (Part -1)](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
+➡️ [Learn Machine Learning Using Python In Data Science - (Part -1)](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
 <br />
 
-➡️ [more blog posts...](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
+➡️ [More Blog Posts...](https://shankarkarande.blogspot.com)
 
 
 
