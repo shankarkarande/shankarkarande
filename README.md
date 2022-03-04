@@ -53,12 +53,12 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts 
+### 📕 Blog Posts 
 
-➡️ [Learn Machine Learning Using Python In Data Science - (Part -1)](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
+➡️ [Learn Machine Learning Using Python In Data Science - ](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
 <br />
 
-➡️ [More Blog Posts...](https://shankarkarande.blogspot.com)
+➡️ [My Projects Blog Posts - ](https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html)
 
 
 
