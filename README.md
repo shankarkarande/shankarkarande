@@ -24,7 +24,7 @@
 <img align="left" alt="" width="22px" src="https://www.linkedin.com/in/shankar-karande-193406192/" />
 <img align="left" alt="" width="22px" src="https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html" /> -->
 
-<br />
+<!-- <br /> -->
 
 ### Languages and Tools:
 
