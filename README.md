@@ -65,6 +65,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkarande&layout=compact)](https://github.com/shankarkarande/github-readme-stats)
 
+[![Shankar github activity graph](https://activity-graph.herokuapp.com/graph?username=shankarkarande&theme=react-dark)](https://github.com/shankarkarande/github-readme-activity-graph)
+
 
 
 
