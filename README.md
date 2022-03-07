@@ -61,5 +61,7 @@
 
 ➡️ [My Projects Blog Posts - ](https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html)
 
+![Shankar GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarkarande&hide=contribs,prs)
+
 
 
