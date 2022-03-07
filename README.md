@@ -1,6 +1,6 @@
 ### Hi there, I'm Shankar 👋 
 
-## I'm a Student, Developer, and Blog Creator !!
+### I'm a Student, Developer, and Blog Creator !!
 
 - 🔭 Pursing B.E in Artificial intelligence and Data science ...
 - 🌱 I’m currently learning a lot of things ...
