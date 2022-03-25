@@ -1,4 +1,10 @@
 ### Hi there, I'm Shankar 👋 
+<g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="41.5" y="15" fill="#010101" fill-opacity=".3">Profile views</text>
+        <text x="41.5" y="14">Profile views</text>
+        <text x="101.5" y="15" fill="#010101" fill-opacity=".3">1,501</text>
+        <text x="101.5" y="14">1,501</text>
+    </g>
 
 ### I'm a Student, Developer, and Blog Creator !!
 
