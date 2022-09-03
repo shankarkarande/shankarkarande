@@ -14,7 +14,7 @@
  - Personal Website : https://shankarkarande.github.io/Portfolio/ <br />
  - Twitter Account : https://mobile.twitter.com/4Karande<br />
  - LinkedIn Account : https://www.linkedin.com/in/shankar-karande-193406192/<br />
- - Blog Content : https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html
+ 
                            
 <!-- 
 <img align="left" alt=" " width="22px" src="https://skarande.herokuapp.com"/>
