@@ -20,8 +20,7 @@
 <img align="left" alt=" " width="22px" src="https://skarande.herokuapp.com"/>
 <img align="left" alt="" width="22px" src="https://www.youtube.com/channel/UCgrcg_Iv7ykj8pq8UXbRcHg"/>
 <img align="left" alt="" width="22px" src="https://mobile.twitter.com/4Karande"/>
-<img align="left" alt="" width="22px" src="https://www.linkedin.com/in/shankar-karande-193406192/" />
-<img align="left" alt="" width="22px" src="https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html" /> -->
+<img align="left" alt="" width="22px" src="https://www.linkedin.com/in/shankar-karande-193406192/" /> -->
 
 <!-- <br /> -->
 
@@ -61,10 +60,10 @@
 
 ### 📕 Blog Posts :- 
 
-➡️ [Learn Machine Learning Using Python In Data Science - ](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
+➡️ [Learn Machine Learning Using Python In Data Science. ](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
 <br />
 
-➡️ [My Projects Blog Posts - ](https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html)
+➡️ [My Projects Blog Posts. ](https://shankarkarandeprojects.blogspot.com/2022/02/realtime-chatting-application-chatstream.html)
 <br />
 <br />
 <!-- ![Shankar GitHub stats](https://github-readme-stats.vercel.app/api?username=shankarkarande&show_icons=true&theme=radical)) -->
