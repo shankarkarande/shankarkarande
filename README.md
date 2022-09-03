@@ -52,6 +52,13 @@
 <br />
 <br />
 
+<br>
+<h2>😄 Have Fun </h2>
+<br>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
 ### 📕 Blog Posts :- 
 
 ➡️ [Learn Machine Learning Using Python In Data Science - ](https://shankarkarande.blogspot.com/2022/02/learn-machine-learning-using-python-in.html)
