@@ -72,8 +72,7 @@
 
 [![Shankar github activity graph](https://activity-graph.herokuapp.com/graph?username=shankarkarande&theme=react-dark)](https://github.com/shankarkarande/github-readme-activity-graph)
 
-
-https://colab.research.google.com/drive/1H5F7hWNArPeXn-5WT9DrTLa6ZET8wU1o?pli=1&authuser=2
+https://colab.research.google.com/drive/1CoinOq5EXmXKV8_Y9vpgTeamPEgm1e8e
 
 
 
